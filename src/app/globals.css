@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: rgb(179, 197, 217);
+  --secondary: #667baa;
+}
+* {
+  box-sizing: border-box;
+}
+
+html {
+  @apply text-[12px] sm:text-[16px];
+  scroll-behavior: smooth;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+} */
+
+body {
+  color: black;
+  @apply bg-primary;
+  font-family: "Larken", sans-serif;
+}
+
+@layer base {
+  .debug {
+    @apply border-[1px] border-red-500;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-medium;
+    line-height: 115%;
+  }
+
+  h1 {
+    font-size: 2.986rem;
+  }
+  h2 {
+    font-size: 2.488rem;
+  }
+  h3 {
+    font-size: 2.074rem;
+  }
+  h4 {
+    font-size: 1.728rem;
+  }
+  h5 {
+    font-size: 1.44rem;
+  }
+  h6 {
+    font-size: 1.2rem;
+  }
+
+  p,
+  a,
+  li {
+    @apply font-light text-xl;
+    line-height: 150% !important;
+  }
+
+  strong {
+    @apply font-medium;
+  }
+
+  .small {
+    font-size: 0.833rem;
+  }
+
+  .swiper-pagination .swiper-pagination-bullet {
+    @apply w-3 h-3 bg-gray-300 rounded-full !important; /* Default bullet */
+  }
+
+  .swiper-pagination .swiper-pagination-bullet-active {
+    @apply bg-secondary !important; /* Active bullet */
+  }
+
+  /* Optional: Adjust spacing between bullets */
+  .swiper-pagination .swiper-pagination {
+    @apply flex justify-center gap-2 mt-4 !important;
+  }
+}
