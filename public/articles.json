@@ -1,7 +1,40 @@
 [
   {
+    "title": "Informativo Jan/2026",
+    "image": "jan26.webp",
+    "content": [
+      {
+        "title": "Opinião",
+        "subtitle": "Sigilo Profissional",
+        "text": [
+          "O sigilo é um dos elementos basilares da relação médico-paciente, razão pela qual é considerado um princípio fundamental no Código de Ética Médica.",
+          "A quebra do sigilo profissional é admitida excepcionalmente, em casos previstos em Lei, como na hipótese de consentimento do paciente por escrito ou por motivo justo e dever legal (artigo 73).",
+          "A quebra do sigilo profissional é admitida excepcionalmente, em casos previstos em Lei, como na hipótese de consentimento do paciente por escrito ou por motivo justo e dever legal (artigo 73)."
+        ]
+      },
+      {
+        "title": "Saúde nos Tribunais",
+        "subtitle": "Autodeterminação do Paciente",
+        "text": [
+          "O Supremo Tribunal Federal (STF), após decisão do Ministro Alexandre de Moraes, suspendeu a análise de duas ações que versam sobre o direito à recusa terapêutica em situações de risco iminente de morte.",
+          "Já há votos no sentido de prestigiar a autodeterminação ilimitada dos pacientes – afastando interpretações que autorizam a realização de procedimentos médicos sem o consentimento dos envolvidos.",
+          "As ADPF-s nºs 618 e 648 discutem dispositivos do Código Penal e de Resoluções do CFM que permitem intervenções médicas forçadas, inclusive contra a vontade de pacientes maiores e capazes."
+        ]
+      },
+      {
+        "title": "Alerta Legal",
+        "subtitle": "Novas Regras e Limites para a Auditoria Médica",
+        "text": [
+          "A Resolução CFM nº 2.448/25, que regulamenta as auditorias médicas, revela uma vitória da autonomia e da independência profissional.",
+          "A norma fortalece a posição do médico assistente contra interferências externas e reforça a importância da observação de princípios gerais – como sigilo médico, transparência e necessária comunicação entre os profissionais.",
+          "Entre os pontos mais importantes trazidos, destacam-se: (i) vedação à auditoria médica de forma \"remota\" (artigo 4º); (ii) exigência de contato direto entre o médico auditor e o médico assistente (artigo 5º) e (iii) vedação à interferência do médico auditor em relação às condutas terapêuticas e proibição de glosas quanto aos procedimentos previamente autorizados (artigo 12)."
+        ]
+      }
+    ]
+  },
+  {
     "title": "Informativo Fev/2025",
-    "image": "breast-cancer.webp",
+    "image": "fev25.webp",
     "content": [
       {
         "title": "Opinião",
@@ -35,7 +68,7 @@
   },
   {
     "title": "Informativo Jan/2025",
-    "image": "telemedicina.webp",
+    "image": "jan25.webp",
     "content": [
       {
         "title": "Opinião",
@@ -72,7 +105,7 @@
   },
   {
     "title": "Informativo Dez/2024",
-    "image": "consentimento.webp",
+    "image": "dez24.webp",
     "content": [
       {
         "title": "Opinião",
@@ -106,7 +139,7 @@
   },
   {
     "title": "Informativo Nov/2024",
-    "image": "lgpd.webp",
+    "image": "nov24.webp",
     "content": [
       {
         "title": "Opinião",
