@@ -16,7 +16,7 @@ function ArticleCard({ article, openArticle }: IArticleCard) {
       <div className="h-56 relative mb-4">
         <Image
           src={`/articles/${image}`}
-          alt={content[0].subtitle}
+          alt={title}
           fill
           className="object-cover"
         />
