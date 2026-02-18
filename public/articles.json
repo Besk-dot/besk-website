@@ -1,5 +1,38 @@
 [
   {
+    "title": "Informativo Fev/2026",
+    "image": "fev26.webp",
+    "content": [
+      {
+        "title": "Pílula Jurídica",
+        "subtitle": "Relação do médico com a imprensa",
+        "text": [
+          "O médico pode publicar na imprensa textos em linguagem acessível e com caráter informativo, abordando temas que tenham como objetivo orientar a população e sempre alertando que nada substitui uma consulta médica individual.",
+          "As entrevistas, de qualquer natureza, não podem visar autopromoção ou divulgar temas sensacionalistas, tampouco objetivar a captação de clientes ou abordar métodos ou técnicas não registradas na Anvisa ou não reconhecidas pelo CFM.",
+          "O médico não pode dizer que tem expertise em determinada doença, órgão ou sistema específico sem poder comprovar que é especialista e que possui título devidamente registrado no Conselho de Medicina."
+        ]
+      },
+      {
+        "title": "Saúde nos Tribunais",
+        "subtitle": "Novas regras para recusa de transfusão de sangue na rede federal",
+        "text": [
+          "O Tribunal Regional Federal da 2ª Região (TRF2) determinou que a União disponibilize em todo o território nacional um programa de gerenciamento e manejo de sangue de pacientes em hospitais federais. A decisão beneficia pacientes que não aceitam a transfusão de sangue, como Testemunhas de Jeová.",
+          "O programa de gerenciamento inclui a confecção de um modelo de termo de consentimento para que pacientes que recusam a transfusão possam assinar o documento e a confecção de protocolos para casos de unidades de saúde que não disponham de tratamento alternativo à transfusão, com previsão de transferência para unidade que o ofereça.",
+          "Fonte: Processo nº 5103690-53.2021.4.02.5101."
+        ]
+      },
+      {
+        "title": "Alerta Legal",
+        "subtitle": "Autonomia na divisão de agendas particular e convênio",
+        "text": [
+          "O Conselho Federal de Medicina, no parecer de nº 1/2026, reafirmou ser lícito que o médico organize sua agenda optando por dividir atendimentos particulares daqueles vinculados aos planos de saúde.",
+          "A ideia é fortalecer a autonomia do profissional, com a ressalva óbvia de que o profissional deve primar pela qualidade dos serviços, dedicando-se a todos os pacientes sem qualquer distinção.",
+          "Destacou-se no parecer que essa prerrogativa não autoriza a cobrança em duplicidade, a exigência de complementação de honorários fora de acordos previamente estabelecidos ou a adoção de condutas que induzam o paciente a optar pelo atendimento particular."
+        ]
+      }
+    ]
+  },
+  {
     "title": "Informativo Jan/2026",
     "image": "jan26.webp",
     "content": [
