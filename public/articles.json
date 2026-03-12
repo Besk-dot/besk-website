@@ -1,5 +1,40 @@
 [
   {
+    "title": "Informativo Mar/2026",
+    "image": "mar26.webp",
+    "content": [
+      {
+        "title": "Pílula Jurídica",
+        "subtitle": "Importância do acordo de sócios em sociedades médicas",
+        "text": [
+          "O contrato social, documento que formaliza a vontade de duas ou mais pessoas em se unir para desenvolver uma atividade que visa o lucro, nem sempre é suficiente para regular todas as questões importantes da sociedade.",
+          "Nesse cenário surge a importância da elaboração do acordo de sócios – instrumento que tem como objetivo estipular as regras de convivência em uma sociedade.",
+          "Dentre os principais ajustes previstos no acordo de sócios, destacam-se: (i) formas de remuneração/distribuição de lucros; (ii) direitos e obrigações de cada sócio; (iii) mecanismos para a resolução de conflitos e (iv) elementos da administração da sociedade."
+        ]
+      },
+      {
+        "title": "Saúde nos Tribunais",
+        "subtitle": "STJ afasta responsabilidade solidária de cirurgião por erro de anestesiologista",
+        "text": [
+          "O Superior Tribunal de Justiça reconheceu falta de legitimidade de um cirurgião em caso de má prática médica envolvendo conduta inadequada do anestesiologista.",
+          "A corte destacou que o anestesista atua com plena autonomia técnica, sem subordinação direta ao cirurgião, razão pela qual deve responder isoladamente por falhas cometidas no âmbito de sua especialidade.",
+          "Na decisão reforçou-se a aplicação do artigo 14, § 4º, do Código de Defesa do Consumidor, que exige a comprovação de conduta culposa (imprudência, negligência ou imperícia) para a configuração da responsabilidade profissional.",
+          "Fonte: STJ, REsp 2.034.495"
+        ]
+      },
+      {
+        "title": "Alerta Legal",
+        "subtitle": "CFM estabelece regras para o uso de Inteligência Artificial na medicina",
+        "text": [
+          "O Conselho Federal de Medicina publicou a Resolução CFM nº 2.454/26, que passou a normatizar o uso da inteligência artifical (IA) na prática médica.",
+          "A norma reforça que o uso da IA deve se dar como ferramenta de apoio, sendo que o profissional deve exercer julgamento crítico em relação às recomendações e permanecer resposável pelas decisões técnicas.",
+          "Além disso, destacou-se que a utilização da tecnologia deve ser objeto de consentimento, com a devida prestação de informações e esclarecimentos ao paciente.",
+          "A relevância da “transparencia algorítmica” também foi sublinhada: a utilização da IA deve ser registrada em prontuário e os profissionais têm o dever de se atualizar quanto às limitações, riscos e vieses dos sistemas empregados."
+        ]
+      }
+    ]
+  },
+  {
     "title": "Informativo Fev/2026",
     "image": "fev26.webp",
     "content": [
