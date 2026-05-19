@@ -1,5 +1,73 @@
 [
   {
+    "title": "Informativo Mai/2026",
+    "image": "mai26.webp",
+    "content": [
+      {
+        "title": "Pílula Jurídica",
+        "subtitle": "Prontuário médico como instrumento de defesa do profissional",
+        "text": [
+          "O prontuário é a principal ferramenta de defesa do profissional em demandas que envolvam alegação de erro médico.",
+          "Para cumprir seu papel probatório, o prontuário deve observar requisitos mínimos como: (i) identificação completa do paciente; (ii) anamese com histórico clínico e psicossocial, exame físico e hipóteses diagnósticas; (iii) descrição detalhada da conduta adotada, exames solicitados e medicações prescritas; (iv) registro de intercorrências e da evolução do quadro; e (v) data, assinatura e identificação do profissional responsável por cada anotação.",
+          "Sob a ótica da LGPD e da Resolução CFM nº 2.381/2024, o prontuário também deve observar regras de sigilo, integridade e rastreabilidade, sendo recomendável que clínicas e consultórios estabeleçam políticas internas sobre acesso, guarda e fornecimento de cópias."
+        ]
+      },
+      {
+        "title": "Saúde nos Tribunais",
+        "subtitle": "Decisão do TJSP reforça proteção rigorosa e necessidade de autorização expressa para entrega de prontuários.",
+        "text": [
+          "O Tribunal de Justiça de São Paulo, no julgamento do Recurso Inominado Cível nº 1042956-17.2024.8.26.0602, reconheceu que a entrega de documento médico a terceiro sem autorização configura violação à Lei Geral de Proteção de Dados e enseja o pagamento de indenização por danos morais.",
+          "No caso, documento de saúde da paciente foi entregue a terceiro, que passou a importuná-la com mensagens inadequadas.",
+          "A decisão reforça que os dados de saúde são os mais sensíveis e exigem nível de proteção reforçado, destacando que cópias de prontuários, exames, laudos e relatórios somente devem ser entregues ao próprio paciente ou a terceiro expressamente autorizado por escrito, sob pena de responsabilização civil, ética e administrativa."
+        ]
+      },
+      {
+        "title": "Alerta Legal",
+        "subtitle": "CREMESP estabelece novas regras para prestação de serviços",
+        "text": [
+          "O Conselho Regional de Medicina do Estado de SãoPaulo publicou a Resolução nº 397/2026, que estabelece novo padrão de conformidade para a contratação de serviços médicos, com impactos diretos sobre clínicas, hospitais e sociedades médicas.",
+          "Entre os principais pontos, destacam-se: (i) a fixação de conteúdo mínimo obrigatório nos contratos de prestação de serviços médicos, exigindo cláusulas sobre objeto, remuneração, data de pagamento, escala e rescisão; (ii) a vedação expressa à intermediação irregular de mão de obra médica; e (iii) a proibição de que o médico sócio participante de Sociedade em Conta de Participação (SCP) preste serviços diretamente à mesma SCP da qual faça parte.",
+          "Diante desse novo panorama legal, é recomendável a revisão imediata dos contratos vigentes, especialmente das SCPs, em razão dos reflexos éticos envolvidos."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Informativo Abr/2026",
+    "image": "abr26.webp",
+    "content": [
+      {
+        "title": "Pílula Jurídica",
+        "subtitle": "Condições de trabalho na Medicina",
+        "text": [
+          "O exercício do ofício com dignidade é um princípio fundamental da profissão do médico, previsto no Código de Ética Médica (CEM).",
+          "Por vezes, “recusar” passa a ser um dever ético, notadamente quando não existem condições adequadas de atendimento que coloquem em risco a segurança e qualidade da assistência médica. O médico que aceita trabalhar num cenário de sobrecarga de trabalho ou num ambiente de insuficiência de profissionais e insumos pode responder pelos danos relacionados à limitação do atendimento.",
+          "Em situações como essas, o profissional deve se negar a trabalhar – salvo em casos de urgência e/ou emergência – e notificar os fatos ao Conselho Regional de Medicina local."
+        ]
+      },
+      {
+        "title": "Saúde nos Tribunais",
+        "subtitle": "A decisão do STF e a competência do MEC na regulação do ensino médico",
+        "text": [
+          "O STF, em recente decisão, consolidou o entendimento de que cursos de Medicina não podem ser abertos sem o aval formal do Ministério da Educação (MEC).",
+          "Em decisão proferida na Reclamação Constitucional nº 91.120/SP, o Ministro Alexandre de Moraes, relator do caso, reafirmou a tese definida na Ação Declaratória de Constitucionalidade (ADC) nº 81.",
+          "Deliminou-se, no julgamento, que o Poder Judiciário não tem competência técnica para avaliar se um curso de Medicina tem qualidade, sendo que essa função pertence exclusivamente ao MEC."
+        ]
+      },
+      {
+        "title": "Alerta Legal",
+        "subtitle": "Impactos e diretrizes do novo marco legal na relação médico-paciente",
+        "text": [
+          "A sanção da Lei nº 15.378/2026 (Estatuto dos Direitos do Paciente), trouxe novo marco legal na relação médico-paciente, devendo-se destacar:",
+          "(a) Obrigatoriedade da formalização do termo de consentimento como forma de cristalizar o dever de informação do médico;",
+          "(b) previsão sobre as diretivas antecipadas de vontade (DAV´s), pelas quais o médico deve respeitar as decisões do paciente sobre tratamentos futuros em caso de incapacidade;",
+          "(c) O paciente agora tem direito a ter um acompanhante durante todo o atendimento, assim como ter acesso às informações de sua saúde em tempo real, com acesso amplo e irrestrito ao prontuário que lhe pertence;",
+          "d) O estatuto contempla uma série de deveres dos pacientes, como transparência e veracidade das informações transmitidas, colaboração com o tratamento e comunicação de imprevistos. "
+        ]
+      }
+    ]
+  },
+  {
     "title": "Informativo Mar/2026",
     "image": "mar26.webp",
     "content": [
