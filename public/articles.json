@@ -1,5 +1,37 @@
 [
   {
+    "title": "Informativo Jun/2026",
+    "image": "jun26.webp",
+    "content": [
+      {
+        "title": "Pílula Jurídica",
+        "subtitle": "Regulamentação e Exigências Legais para a Prática da Telemedicina",
+        "text": [
+          "A telemedicina, regulamentada pela Resolução CFM nº 2.314/2022, exige do médico cuidados específicos, dentre os quais se destacam (i) a obrigatoriedade de obtenção de consentimento livre e esclarecido específico para o atendimento remoto; (ii) o registro completo do atendimento em prontuário eletrônico; (iii) a emissão de documentos médicos (atestados, prescrições, laudos) por meio de certificação digital ICP-Brasil e (iv) o registro da pessoa jurídica prestadora do serviço no CRM, com indicação de responsável técnico médico regularmente inscrito.",
+          "A formalização cuidadosa da estrutura de telemedicina, com a elaboração de contratos, políticas de privacidade e termos de consentimento, é condição indispensável para o exercício."
+        ]
+      },
+      {
+        "title": "Saúde nos Tribunais",
+        "subtitle": "Responsabilidade Civil em Laudos",
+        "text": [
+          "O Tribunal de Justiça do Distrito Federal reconheceu a responsabilidade civil de um Radiologista pela omissão, em laudo, de achados relevantes ao diagnóstico de neoplasia mamária, sob o fundamento da perda de uma chance.",
+          "Para os julgadores, “A falha no exame comprometeu a possibilidade de diagnóstico precoce de neoplasia mamária, configurando a perda de uma chance real e mensurável de tratamento menos invasivo, hipótese que enseja reparação proporcional ao grau de probabilidade frustrada, conforme entendimento do STJ”.",
+          "Fonte: TJDFT, 0909.2023.8.07.0006"
+        ]
+      },
+      {
+        "title": "Alerta Legal",
+        "subtitle": "Punições para Inadimplência de Pessoas Jurídicas com Médicos",
+        "text": [
+          "O Conselho Federal de Medicina publicou a Resolução CFM nº 2.462/2026, que disciplina o inadimplemento de pessoas jurídicas perante médicos, criando em relação a eles mecanismos de proteção.",
+          "A norma alcança pessoas jurídicas de variadas naturezas (públicas e privadas), que devem manter inscrição regular no Conselho Regional de Medicina da respectiva jurisdição.",
+          "Em caso de inadimplemento perante médicos, a pessoa jurídica fica sujeita a procedimento administrativo no CRM, com penas de advertências, multas, suspensão e até o cancelamento do registro – medida de natureza extintiva que impede a continuidade das atividades médicas. A reabilitação administrativa exige a quitação integral dos débitos ou a celebração de acordo formal aceito pelos médicos credores."
+        ]
+      }
+    ]
+  },
+  {
     "title": "Informativo Mai/2026",
     "image": "mai26.webp",
     "content": [
