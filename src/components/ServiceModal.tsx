@@ -32,7 +32,7 @@ function ServiceModal({ onClose, title, image, texts }: IServiceModalProps) {
         </div>
         <ul className="list-disc pl-10 flex flex-col gap-4 text-2xl">
           {texts.map((text) => (
-            <li>{text}</li>
+            <li key={text}>{text}</li>
           ))}
         </ul>
       </div>
