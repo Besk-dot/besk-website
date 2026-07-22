@@ -7,7 +7,7 @@ import "swiper/css/navigation";
 import { Autoplay, Navigation, Pagination } from "swiper/modules";
 import Image from "next/image";
 
-import Banner1 from "../../public/banner-1.webp";
+// import Banner1 from "../../public/banner-1.webp";
 import Banner2 from "../../public/banner-2.webp";
 import Banner3 from "../../public/banner-3.webp";
 
@@ -63,9 +63,9 @@ function Hero() {
           autoplay={{ delay: 3000 }}
           className="relative aspect-[1120/530]"
         >
-          <SwiperSlide className="z-0">
+          {/* <SwiperSlide className="z-0">
             <Image src={Banner1} alt="Banner 1" fill className="object-cover" />
-          </SwiperSlide>
+          </SwiperSlide> */}
           <SwiperSlide className="z-0">
             <Image src={Banner2} alt="Banner 2" fill className="object-cover" />
           </SwiperSlide>

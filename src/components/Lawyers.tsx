@@ -20,15 +20,15 @@ const lawyers = [
     ],
     imgPath: "/alan.webp",
   },
-  {
-    name: "Anna Soares Marmirolli",
-    contact: "anna@besk.com.br",
-    description: [
-      "Advogada. Graduada pela Faculdade de Direito do Mackenzie em 2017. Possui título de especialista em Direito Médico e Hospitalar pela EPD (2021), em Direito Processual Civil (2019) e em Direito do Consumidor (2020) pela UniDomBosco.",
-      "Em 2024, tornou-se Mestre em Direito Político e Econômico pelo Mackenzie. Professora Convidada na graduação em Medicina da Faculdade Israelita de Ciências da Saúde Albert Einstein.",
-    ],
-    imgPath: "/anna.webp",
-  },
+  // {
+  //   name: "Anna Soares Marmirolli",
+  //   contact: "anna@besk.com.br",
+  //   description: [
+  //     "Advogada. Graduada pela Faculdade de Direito do Mackenzie em 2017. Possui título de especialista em Direito Médico e Hospitalar pela EPD (2021), em Direito Processual Civil (2019) e em Direito do Consumidor (2020) pela UniDomBosco.",
+  //     "Em 2024, tornou-se Mestre em Direito Político e Econômico pelo Mackenzie. Professora Convidada na graduação em Medicina da Faculdade Israelita de Ciências da Saúde Albert Einstein.",
+  //   ],
+  //   imgPath: "/anna.webp",
+  // },
 ];
 
 function Lawyers() {
@@ -42,7 +42,7 @@ function Lawyers() {
           Advogados
         </h1>
       </div>
-      <div className="gap-12 xl:gap-16 2xl:gap-20 2xl:px-8 flex flex-row flex-wrap flex-1 relative justify-around">
+      <div className="gap-12 xl:gap-16 2xl:gap-20 2xl:px-8 flex flex-row flex-wrap flex-1 relative justify-around max-w-screen-xl m-auto">
         {lawyers.map((law) => (
           <Lawyer {...law} key={law.name} />
         ))}

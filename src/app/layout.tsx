@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+// @ts-expect-error - Next.js allows global CSS imports in app/layout.tsx
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
